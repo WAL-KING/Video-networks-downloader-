@@ -5,7 +5,7 @@ from yt_dlp import YoutubeDL
 from yt_dlp.extractor import gen_extractor_classes
 
 # 🔐 Token du bot Telegram
-TOKEN = '7776617699:AAG4SeLGLiU-8yk2kcg_NPdNJG8SFfKcU7Q'
+TOKEN = '6642551264:AAEfI-U29ppUrU5hlxLYqbxCWXRmDLDNdPA'
 
 # 📂 Dossier temporaire pour les téléchargements
 DOWNLOAD_DIR = 'downloads'
